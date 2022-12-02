@@ -1,0 +1,126 @@
+ClientIdentification{
+    type=DEVICE_CERTIFICATE
+    token=SignedDeviceCertificate{
+        device_certificate=DeviceCertificate{
+            type=DRM_USER_DEVICE
+            serial_number: 46 85 B4 99 7B 27 2C C6 AD 45 20 FC BF B0 3C 0A
+            creation_time_seconds=1629146572
+            public_key: 30 81 89 02 81 81 00 A5 12 5C 42 49 18 05 93 2B
+            public_key: 45 C4 C6 FC 70 53 0B BB F5 77 3A 69 92 54 C3 57
+            public_key: 56 A7 CD 17 71 95 E7 0B 61 66 F2 9E 86 E5 21 1A
+            public_key: C2 1E 5D BD 9F 0A 2A F6 6A 9B 29 C9 8A B5 9F 9F
+            public_key: 3A 78 16 C5 49 2B 2B D0 DC 3B 69 C5 2C 91 31 05
+            public_key: B9 EF D3 C7 DE 21 3D 82 EF 7E 77 71 F1 28 B3 82
+            public_key: A4 E9 9E 5D 2F AD 80 AA 4B D8 AC 11 2B C4 22 58
+            public_key: AE 94 AC C6 13 D4 33 53 E5 93 5B B7 AB 26 3F 4E
+            public_key: 28 75 F3 A5 3D 18 D3 02 03 01 00 01 
+            system_id=21889
+            unk9=1
+            sub_key=UnkB{
+                public_key: 30 81 89 02 81 81 00 A1 9A 93 96 47 22 04 26 1B
+                public_key: 7F AB AB 9A 4E DF 1E 0B 3E 63 B0 AE B0 94 F5 11
+                public_key: 55 15 97 AD FE 3E 6F 49 AD C1 73 79 47 95 E8 F5
+                public_key: EC 77 8A 23 DF 58 43 96 80 49 AC 58 5A 80 5B 3E
+                public_key: EB B3 99 A9 50 FD 09 B5 34 D7 2C C6 C2 0E C2 92
+                public_key: 67 D2 99 F2 E7 D7 7A 8F 26 FD 93 FC 38 92 0C 47
+                public_key: 47 8E 87 85 00 0F A0 EB 52 A7 E4 81 5C E1 77 58
+                public_key: D7 1C 97 66 6B EC F9 3F 63 02 17 90 39 F2 53 25
+                public_key: 06 71 E6 15 B7 98 6D 02 03 01 00 01 
+                unk2=1
+            }
+        }
+        signature: 33 2C A3 66 FB 28 43 07 5C 95 CE 7B C0 EE BC 86
+        signature: 71 10 A5 31 11 0C E3 6E 97 0A 7A A5 16 B5 03 C3
+        signature: FD 16 C9 76 5B 72 78 7A 1D 29 E6 FE 9F 2E FA F5
+        signature: AE 30 67 DC C5 75 CD 71 F3 28 2C FF 2C AF 4C F2
+        signature: 6B 17 FF 45 BD 0C 2B 9E A0 B1 F8 36 5E D0 5F FC
+        signature: F2 4D E7 1B D0 72 99 AF CD A7 E9 36 13 5A 20 89
+        signature: CC 3E 8C 95 53 CE 8F D9 91 A5 FF E7 AD A6 9E F6
+        signature: 5D 73 9C 71 AC CA 03 58 DE BB EC 15 A4 7E 8B 1A
+        signature: B4 3E 62 32 6B 17 F2 E6 15 C3 3A 6C BD E3 8A 0D
+        signature: E1 4E 24 C8 C6 EC 52 76 D8 3B 69 AB 7E AD FF 77
+        signature: 19 43 C0 35 33 B1 93 2C 89 80 31 28 1E BB BC DC
+        signature: AB BD 27 6C 2F E8 B3 D9 88 95 D1 2F 41 39 56 3B
+        signature: F5 3F 1B E9 0D D2 6C D5 61 C6 0F 32 D9 40 2C FF
+        signature: 5E CC 14 FB 81 39 71 63 3E 61 31 9B 62 A6 07 9E
+        signature: 4A 28 30 19 26 83 BD 4A 66 E2 57 8B FA 34 BD C1
+        signature: B8 10 18 93 62 E2 76 DE F9 52 6E 3D 19 8B 6A F7
+        signer=SignedDeviceCertificate{
+            device_certificate=DeviceCertificate{
+                type=DRM_INTERMEDIATE
+                serial_number: C0 73 F5 33 A7 1C EF 98 93 38 3A E3 C2 96 D4 EF
+                creation_time_seconds=1614818737
+                public_key: 30 82 01 0A 02 82 01 01 00 D9 2C 45 64 C2 CC 76
+                public_key: EA 8F 49 C5 31 02 E6 A7 D4 16 C3 93 42 67 C3 F6
+                public_key: EA 87 9D 0F ED 6E 94 66 AE E9 B9 46 5A 61 89 6C
+                public_key: D4 15 75 E9 88 05 04 6D 27 FB 89 50 10 C5 8D 6F
+                public_key: FE AB 37 F0 E7 B1 8D E9 A0 E3 E3 A2 44 52 34 91
+                public_key: 3E 67 71 DE C2 95 F0 3A A1 78 CC 6D 66 D2 85 7E
+                public_key: 5D 96 19 31 BB 73 CF 26 26 19 FA 08 D8 74 DC EE
+                public_key: 01 8F 0B 9C 7D 0D 7B 36 0E B3 C2 F7 7D B0 0A 97
+                public_key: 8C 3F 43 2E 31 52 73 A0 19 D6 0E 03 F6 21 75 AB
+                public_key: 1E 72 5F 59 91 E7 6C 10 4A 43 A9 AF A6 9D 64 DE
+                public_key: 53 B2 97 EE A6 8D 73 F2 B5 92 42 90 B2 7C 68 3A
+                public_key: CA FA 0B 67 8D 4B 21 DC 21 81 FA 30 5C 43 43 1A
+                public_key: E5 67 47 4C 26 68 8E 2D FB DB 5C 24 A6 95 E2 AD
+                public_key: C0 A1 9D 14 1F 39 F9 21 12 C0 DA F0 E7 53 2B EC
+                public_key: C5 F6 79 E5 09 ED E2 12 73 B7 6F 37 D1 81 A2 8A
+                public_key: 9F 3B 85 DB FA F5 3E 62 A9 F3 58 D4 B2 4E 4E 3C
+                public_key: 7A 13 13 AD E6 CF 55 DF E3 02 03 01 00 01 
+                system_id=21889
+                unk9=1
+            }
+            signature: 58 49 5B 9E 93 F1 46 2F 85 17 73 BD 85 6E 69 4D
+            signature: D3 46 F0 65 A1 19 CF E7 55 11 E6 E0 7A 03 C6 04
+            signature: 61 B7 B8 9F 3B 50 7B 7D 62 14 47 5F 54 53 61 B2
+            signature: A2 62 C2 B1 66 FA 6A 14 13 B7 19 4A 23 78 3F 53
+            signature: 0F DB 1F 07 67 57 69 7A F2 82 CA 53 21 2D D9 51
+            signature: C2 E2 42 A8 9E EF C6 E6 B4 37 C1 80 6D D2 2A C8
+            signature: 84 EA 54 AE BA 7E 2A AA F5 4B B6 36 5F 97 70 2D
+            signature: CF B0 34 C7 D2 50 27 B7 CA 6E 87 93 4F B0 C4 FA
+            signature: D3 C7 4B 1F 8D 62 61 78 2C 95 AE E3 95 AE 03 F4
+            signature: A8 28 7B AA 68 C3 47 36 A4 23 42 95 A5 18 3A E4
+            signature: 23 99 8F 5D 78 9B 5F EC B9 27 49 6A 0D 9F F9 DF
+            signature: 7E 30 30 FE BD 0F 7F E0 FE 2F 34 69 21 96 7C 55
+            signature: 42 7E 7C 10 DB 5D A7 56 81 CD 8C 28 A6 B4 83 8D
+            signature: 14 F6 24 DB FD EF 45 61 E2 AD C9 10 EC 3D 05 C2
+            signature: 72 C6 4A 33 F3 11 83 96 85 4B AB 4A 4B 78 E6 4D
+            signature: 27 77 11 29 98 52 21 7C 7E 66 0D BD 66 F3 90 0A
+            signature: 33 5F 10 AD 64 33 AC 80 E6 6A F4 8C 7A 02 58 25
+            signature: 2A 4B 83 44 7D CD 90 D6 B0 52 10 36 D0 FB A2 13
+            signature: F3 E0 BC 8F D1 3E C2 DF 3B 31 80 3A 3F D5 F4 69
+            signature: C5 8B 1F 33 E6 05 94 47 DC D6 A6 A6 FB 80 33 61
+            signature: 99 B2 D4 D5 B5 45 63 F0 CF 5C 52 95 B1 88 F0 73
+            signature: DB F8 3D C1 07 9A 3E 77 0A B4 B4 5B 11 77 17 44
+            signature: B1 C3 C5 5F 22 CE 1D BD CF 93 4A 4A 9E 91 69 CB
+            signature: A9 B6 64 56 B0 74 D8 F0 A0 CA 20 02 F1 0E 21 DD
+        }
+    }
+    client_info=NameValue{
+        name: "architecture_name"
+        value: "x86-64"
+    }
+    client_info=NameValue{
+        name: "company_name"
+        value: "Google"
+    }
+    client_info=NameValue{
+        name: "model_name"
+        value: "ChromeCDM"
+    }
+    client_info=NameValue{
+        name: "platform_name"
+        value: "Windows"
+    }
+    client_info=NameValue{
+        name: "widevine_cdm_version"
+        value: "4.10.2449.0"
+    }
+    client_capabilities=ClientCapabilities{
+        client_token=true
+        session_token=false
+        video_resolution_constraints=true
+        max_hdcp_version=HDCP_V1
+        oem_crypto_api_version=16
+    }
+}

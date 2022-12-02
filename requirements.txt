@@ -1,0 +1,17 @@
+beautifulsoup4
+cssutils
+ffmpy
+future
+httpx
+natsort
+protobuf==3.20.1
+pycaption
+pycountry
+pycryptodomex
+pymediainfo
+pysrt
+requests
+titlecase
+tldextract
+tqdm
+Unidecode

@@ -1,0 +1,150 @@
+FileHashes{
+    signer: 30 82 04 85 30 82 02 ED A0 03 02 01 02 02 11 00
+    signer: FF 36 63 64 2F 2B 4A C1 76 7B 1C 89 42 D3 02 B8
+    signer: 30 0D 06 09 2A 86 48 86 F7 0D 01 01 0B 05 00 30
+    signer: 7D 31 0B 30 09 06 03 55 04 06 13 02 55 53 31 13
+    signer: 30 11 06 03 55 04 08 0C 0A 57 61 73 68 69 6E 67
+    signer: 74 6F 6E 31 11 30 0F 06 03 55 04 07 0C 08 4B 69
+    signer: 72 6B 6C 61 6E 64 31 0F 30 0D 06 03 55 04 0A 0C
+    signer: 06 47 6F 6F 67 6C 65 31 11 30 0F 06 03 55 04 0B
+    signer: 0C 08 57 69 64 65 76 69 6E 65 31 22 30 20 06 03
+    signer: 55 04 03 0C 19 77 69 64 65 76 69 6E 65 2D 63 6F
+    signer: 64 65 73 69 67 6E 2D 72 6F 6F 74 2D 63 61 30 1E
+    signer: 17 0D 31 37 31 30 31 33 31 37 33 39 30 39 5A 17
+    signer: 0D 32 37 31 30 31 31 31 37 33 39 30 39 5A 30 79
+    signer: 31 0B 30 09 06 03 55 04 06 13 02 55 53 31 13 30
+    signer: 11 06 03 55 04 08 0C 0A 57 61 73 68 69 6E 67 74
+    signer: 6F 6E 31 11 30 0F 06 03 55 04 07 0C 08 4B 69 72
+    signer: 6B 6C 61 6E 64 31 0F 30 0D 06 03 55 04 0A 0C 06
+    signer: 47 6F 6F 67 6C 65 31 11 30 0F 06 03 55 04 0B 0C
+    signer: 08 57 69 64 65 76 69 6E 65 31 1E 30 1C 06 03 55
+    signer: 04 03 0C 15 77 69 64 65 76 69 6E 65 2D 76 6D 70
+    signer: 2D 63 6F 64 65 73 69 67 6E 30 82 01 22 30 0D 06
+    signer: 09 2A 86 48 86 F7 0D 01 01 01 05 00 03 82 01 0F
+    signer: 00 30 82 01 0A 02 82 01 01 00 BB 32 46 BF 9A 38
+    signer: 95 65 E7 04 2D B9 93 A9 DC 24 72 8A B1 EC 7B 5E
+    signer: ED AD F8 FA 02 D4 92 F7 11 EF 30 1A 25 D7 48 41
+    signer: 1A DC 19 73 41 22 44 C8 71 FA 3D 36 97 C8 EC 85
+    signer: A4 23 AF 4A C0 4E 0F 99 8D 0B A1 17 D5 26 FC 00
+    signer: 6B 3B 04 2B BC 0A 1F 3C 78 46 93 98 B1 7F C7 EB
+    signer: 2E 42 38 0F 29 53 FF 1E BC D9 6F 16 B3 7C 43 69
+    signer: D6 46 ED 41 36 1B 8C 12 C1 4A 91 00 11 CD E2 10
+    signer: 18 59 EF C7 34 96 01 7B CA 35 75 85 39 4E FF E0
+    signer: DD 3D F3 9D C4 E1 23 ED 4D 82 CD 73 ED 46 21 6A
+    signer: C3 66 25 26 6C 64 8E 52 C3 13 BD 3F 21 4F 74 40
+    signer: 86 18 17 00 B7 CF 23 DC 85 66 1D C2 AC 4F 13 8D
+    signer: 5B F5 56 AF 70 30 79 0E 0B 90 C3 A1 2B D0 DD F3
+    signer: B6 89 53 CE A3 5D 94 16 03 FA AC 4D C9 3D D9 39
+    signer: B2 A4 06 3E CA 0E 20 BA 17 99 87 1B FA D7 F3 3E
+    signer: C2 93 3A 8F 0D A1 BF 31 74 6C 84 1B 96 F7 EF A6
+    signer: A8 60 44 2F 63 D7 11 6A FD 1B 02 03 01 00 01 A3
+    signer: 81 83 30 81 80 30 1D 06 03 55 1D 0E 04 16 04 14
+    signer: 4C B2 D7 1A 63 43 EE BB 45 A0 D8 52 E8 6E EF 83
+    signer: 00 EF 24 B0 30 1F 06 03 55 1D 23 04 18 30 16 80
+    signer: 14 CA 3D D8 8E 0F 74 57 7F D0 9A D9 E1 21 BF 42
+    signer: FB 23 55 29 86 30 09 06 03 55 1D 13 04 02 30 00
+    signer: 30 0B 06 03 55 1D 0F 04 04 03 02 07 80 30 13 06
+    signer: 03 55 1D 25 04 0C 30 0A 06 08 2B 06 01 05 05 07
+    signer: 03 03 30 11 06 0A 2B 06 01 04 01 D6 79 04 01 03
+    signer: 04 03 01 01 FF 30 0D 06 09 2A 86 48 86 F7 0D 01
+    signer: 01 0B 05 00 03 82 01 81 00 67 EB D4 22 CD 86 0F
+    signer: 5B F7 A0 74 7B 9F 34 7E E6 2C 85 47 EE F5 09 E3
+    signer: 34 4B A5 85 AB C9 F5 28 78 24 B9 2E AD 7D 20 09
+    signer: 2A CE 1F E9 4E FA E5 62 7C 64 8C BF D0 C9 CF F2
+    signer: 9C 68 B0 07 75 36 3F DB 4C E4 28 26 15 4F 75 70
+    signer: C7 01 99 24 21 DE D1 0F 34 52 8A 20 35 BF 2D F6
+    signer: 8B A5 73 1F E1 89 BE A4 4B 2F 8E DA 55 5B EF 1E
+    signer: 5B B8 2B 15 73 41 58 2A A2 7E E5 14 BD 5E 30 E2
+    signer: F7 62 61 3E 3B 98 23 98 8D 90 C5 78 AF B0 AD 62
+    signer: BA 2D 31 80 FC EB 45 E3 EC 6C A0 E2 8D 1A DF 8E
+    signer: 53 C4 6E EA 61 01 15 BF DB 29 55 20 E0 71 B8 8F
+    signer: 43 3E 64 3A 0C A5 A5 3C 5B 02 E9 46 35 EE FF 1D
+    signer: 37 D0 09 17 5B F8 2D EA 6C 7D 80 54 20 4C 63 AF
+    signer: 58 07 17 51 66 2E 18 9D 7A 8F CA 3A D0 51 FD F0
+    signer: 65 DA 9F 6D 7A C5 73 05 EB 1A 00 75 2E A5 21 49
+    signer: 4B E7 F3 5C 35 66 20 5B AF 9D 4B D1 64 54 55 65
+    signer: 99 BA 37 75 C3 28 CC DD F2 F5 99 D9 32 66 93 71
+    signer: 84 96 EB 3F 79 B6 B6 C8 53 6D 33 74 74 21 AE 98
+    signer: 71 10 F9 AB 0B 99 B2 8D C3 ED B3 39 25 FB 2C DE
+    signer: 8B C1 22 37 4D 78 51 C9 DD AB 4E 9F 17 5A 6B 0F
+    signer: AA E1 2E 6A 6E 22 F0 55 F0 C1 97 E2 26 49 4D DF
+    signer: 69 F8 EC 8D C3 49 5B A5 02 D4 A3 AC 69 1B 0C 97
+    signer: 22 64 9D 8F 0D 06 E8 13 5E FC 4D 69 A1 2F CC CB
+    signer: 5C 28 99 7D 27 58 A5 02 2A 2C F0 F8 8D 97 A4 E5
+    signer: FE 55 F5 68 12 5D 69 DC ED 
+    signatures=Signature{
+        filename: "chrome.exe"
+        test_signing=false
+        SHA512Hash: 37 FE 99 E7 83 48 56 DE B8 A1 32 77 5B 84 69 D0
+        SHA512Hash: 46 9A 22 83 46 69 65 D9 A2 F8 25 3B 2C FD D7 4C
+        SHA512Hash: 6D CE DA EC 65 0D 40 EF 37 1C F0 9A DC 5C 1B 94
+        SHA512Hash: 2A 70 9E 65 59 33 EB D3 C9 15 25 47 5F E2 5A 04
+        main_exe=true
+        signature2: 1B 1C 34 4D 79 68 3B E4 E3 1D B1 7E A9 37 37 A4
+        signature2: F6 FF E7 C0 6E 62 1D 1E 8A 88 06 39 7D 41 AD 90
+        signature2: E3 E8 3E 98 10 78 CD 13 BD 21 37 5A 9B 93 96 C4
+        signature2: 2F 22 BF 17 21 4C 6D 35 0B 57 D5 41 E5 EC 40 B7
+        signature2: 95 D1 79 02 DB 87 75 38 91 12 B7 BD 98 39 D2 3E
+        signature2: 3E CA 93 CE 54 C3 04 6F DD 24 24 CF 3F C3 C2 64
+        signature2: DD 7C E5 F3 C3 F5 2C 0F 5A 1B 9B A7 1B CE B0 72
+        signature2: 69 B4 49 EF 90 B6 A6 AD 62 61 75 9F 78 BC 1D B5
+        signature2: D2 DA F0 15 60 FA D0 9F C3 1A A9 B4 8B 0D 0E 97
+        signature2: D1 BA 1C 20 88 A4 28 05 E4 D5 E3 AB CC 84 4A B3
+        signature2: A7 05 22 F0 55 58 0E E8 6A 4B 5E 42 B5 EB 8F 9A
+        signature2: D5 26 95 51 F0 F3 60 61 11 BD AE 7E 0D 29 1A 3E
+        signature2: AD 70 96 14 F7 D3 FB 6F DC F7 CF D5 DA 95 92 8B
+        signature2: D3 8C 84 05 5F B8 72 0B AA 58 38 8F 57 F8 FE 65
+        signature2: DF 84 AE 43 36 CA 9E F8 D1 2C 42 23 5E 90 2D 26
+        signature2: D4 72 5C 76 48 42 84 F6 AA 6B 0A B6 A8 CE 7E 9D
+    }
+    signatures=Signature{
+        filename: "chrome.dll"
+        test_signing=false
+        SHA512Hash: 3B E4 4B B3 2D 13 91 8A 18 95 F7 40 9C ED 76 91
+        SHA512Hash: 53 EF 19 2D D8 F6 3A F2 18 3A 2B F7 6E 3F 1B BA
+        SHA512Hash: E4 F4 84 FA 02 03 67 7C D0 5F B6 3B A1 4D E9 02
+        SHA512Hash: 60 0F 9C A9 4D 73 1E 34 37 51 6E 16 6C 63 25 4B
+        main_exe=false
+        signature2: 77 1C EF 20 C7 43 1D F0 B9 1D 2A BA 72 4D C6 19
+        signature2: A3 03 E6 FE B2 BD D2 AC 64 78 44 FC E1 AE 61 06
+        signature2: C3 4F 56 C4 5B 63 92 E0 CD 35 13 D3 EC 17 C9 82
+        signature2: B5 E8 B3 DE E3 BF 47 66 5A BB 08 5D 52 8D A8 59
+        signature2: D4 A1 C8 A9 AA 28 B4 55 78 1E D2 B5 F8 99 7F 42
+        signature2: AF EA 7B 57 FE 08 D3 96 6A BD 6E 51 6D B6 E9 85
+        signature2: E5 4E AD AF ED FF 0F D4 BC 0D 91 CF E4 C7 38 83
+        signature2: E0 B7 D8 54 CA 28 AB 9D 03 C2 BE 98 18 F3 92 A0
+        signature2: E4 BD DC F5 65 98 D9 9C 7D 56 5F 46 F0 1F F0 D6
+        signature2: B4 0C B1 87 D0 9E E5 C6 07 A8 0B D5 E6 87 68 70
+        signature2: FE 21 37 81 EC 15 FE 9B 73 A5 FE 85 1F F3 D7 04
+        signature2: 2E A6 81 62 4C 84 A7 A0 09 0B 57 AD C1 14 61 62
+        signature2: 51 67 88 C0 C2 6E 95 10 25 71 F1 15 F6 72 0F 7C
+        signature2: 5F 3D F6 CC E1 02 BE 24 E2 30 D2 35 31 90 62 3C
+        signature2: 64 BB 0B 1B AF FF D1 BD F6 B6 F0 F0 9A FA 43 0A
+        signature2: 24 D0 81 78 56 CE 8F 1F 63 44 70 E8 84 2F 8A B4
+    }
+    signatures=Signature{
+        filename: "widevinecdm.dll"
+        test_signing=false
+        SHA512Hash: 8E 8F 7B 9C 7C 2E E5 47 49 DB C3 89 B0 E2 47 22
+        SHA512Hash: CE C0 EB A7 20 7B 7A 7D 5A 1E FE 99 EE 82 61 C4
+        SHA512Hash: CF 70 8C DB DC CA 4D 72 F9 A4 AD A0 A1 C5 0C 1A
+        SHA512Hash: 46 FC A2 AC D1 89 A2 0A 99 68 CC FD B1 CF 42 D9
+        main_exe=false
+        signature2: 98 85 F7 A4 A0 79 E1 09 D7 63 69 B8 4A 78 99 EB
+        signature2: 5A BB C9 F1 86 4B AE 2A 24 ED 96 90 17 0E E2 38
+        signature2: F8 3F 4A C8 23 0F 41 32 49 19 E1 AE 5B 6F E1 C9
+        signature2: F7 61 64 4D 5B 51 83 DF CA 51 60 6B 0A 8B 41 50
+        signature2: D8 FC E9 94 FA E9 16 8F 0E 6C 5A 4E E0 A0 6B 13
+        signature2: 51 EC 0F 4B 8C 29 23 B2 0E C9 F2 5E FF 96 2B 09
+        signature2: EB 10 B1 1A DC 28 CC F8 5B 26 58 7D 04 CB 43 79
+        signature2: 25 8D 24 FE 20 64 E4 65 47 D3 3C D1 E1 8C DD DD
+        signature2: 4C EB D2 8F 0A E3 39 55 F7 66 16 77 61 72 87 FC
+        signature2: 30 4C 7C 85 11 EE 7A 77 20 77 0D A5 0A AD 40 E0
+        signature2: 92 33 68 60 F5 E7 25 DD 3A FC 53 3B 37 77 1F F8
+        signature2: 18 9C 6B 90 26 87 5E 6B F8 07 E7 16 5A C3 91 74
+        signature2: 28 3D 92 49 5A 42 80 1D 75 B6 DE E4 7F B1 B9 CA
+        signature2: B8 53 B8 6B 96 61 CC 6E 04 C1 08 DB 4C B4 11 7F
+        signature2: 07 20 4B 12 79 5C EE 97 97 3E 80 C5 B6 A3 4E 62
+        signature2: 65 7A 67 F8 A2 35 5B 05 26 91 7C 8B 2D B7 BC F2
+    }
+}
